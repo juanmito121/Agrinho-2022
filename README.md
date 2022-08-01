@@ -8,7 +8,7 @@
 		<title>Ameaça global</title>
 	</head>
 	<body>
-		<h1 style="text-align: center; ">BCt</h1>
+		<h1 style="text-align: center; ">readBCt</h1>
 
 		<p style="text-align: center;">Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
 
